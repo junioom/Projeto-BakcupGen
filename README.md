@@ -77,10 +77,6 @@ for file in list_file_backup:
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias ou correções.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## Contato
 
 Se você tiver dúvidas ou sugestões, sinta-se à vontade para me contatar.
@@ -93,4 +89,3 @@ Se você tiver dúvidas ou sugestões, sinta-se à vontade para me contatar.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junioom)
 ```
 
-Copie e cole este README no seu repositório para fornecer uma visão clara e concisa do seu projeto Backup Generator.
