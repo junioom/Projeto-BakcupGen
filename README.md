@@ -1,4 +1,3 @@
-```markdown
 # Backup Generator
 
 Backup Generator é um projeto desenvolvido para automatizar o processo de backup de arquivos e diretórios. Este projeto foi criado como parte do meu aprendizado em Python e suas bibliotecas. Ele representa o meu primeiro projeto prático usando Python.
@@ -78,6 +77,14 @@ for file in list_file_backup:
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias ou correções.
 
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Contato
+
+Se você tiver dúvidas ou sugestões, sinta-se à vontade para me contatar.
+
 ## Conecte-se comigo
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:juniorbmelo12@gmail.com)
@@ -85,3 +92,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juniorbm.wn/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junioom)
 ```
+
+Copie e cole este README no seu repositório para fornecer uma visão clara e concisa do seu projeto Backup Generator.
